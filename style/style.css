@@ -1,0 +1,12 @@
+
+
+#sayiTahmin {
+    width: 100%;
+    text-align: center;
+}
+
+input,
+button {
+    padding: 20px;
+    text-align: center;
+}
